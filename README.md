@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bullback1
-- 👀 I’m interested in ...Game,F1,Bass Guitar
+- 👀 I’m interested in ...Game,F1,Electric Guitar
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ......
 - 📫 How to reach me ...Nope
