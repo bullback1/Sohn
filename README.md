@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bullback1
-- 👀 I’m interested in ...Game,F1,Electric Guitar
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ......
+- 👀 I’m interested in ...Game,F1,piano
+- 🌱 I’m currently learning ...PowerShell,Scala
+- 💞️ I’m looking to collaborate on ......Song-Sung-jun
 - 📫 How to reach me ...Nope
 
 <!---
