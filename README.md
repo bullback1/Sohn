@@ -2,5 +2,3 @@
 
 
 
-<a href="https://www.instagram.com/thseodud_/?__pwa=1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white"/></a>
-
